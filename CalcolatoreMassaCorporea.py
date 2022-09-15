@@ -18,4 +18,4 @@ if massaCorporea < 18:
 elif massaCorporea > 25:
   print("Sovrappeso")
 else:
-  print("Nella norma")
+  print("Normapeso")
